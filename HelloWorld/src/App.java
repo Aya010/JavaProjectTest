@@ -6,7 +6,5 @@ public class App {
         var xiaoming = new Person("xiaoming",14);
         var name = xiaoming.get_name();
         System.out.println(name);
-        System.out.println("Hello, World!");
-        System.out.println("Hello, World!");
     }
 }
